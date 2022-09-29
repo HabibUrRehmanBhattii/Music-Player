@@ -17,14 +17,13 @@ In this project, I have created a music player using Html, CSS and JavaScript. T
 
 ## Screenshots
 
-![Screenshot](
+![Screenshot](https://user-images.githubusercontent.com/109253977/193156141-5260f9a0-351f-4ddc-b901-85f9a829e2d5.png)
 
-![Screenshot](
 
 
 ## Live Demo
 
-[Live Demo Link](htt)
+[Live Demo Link](https://habiburrehmanbhattii.github.io/Music-Player/)
 
 ## Technologies Used with logo
 
